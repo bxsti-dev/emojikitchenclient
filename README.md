@@ -4,6 +4,10 @@
 Emojikitchen client using emojik vercel API (https://emojik.vercel.app)
 Created with Flutter.
 
+<h2>Installation:</h2>
+<strong>Android:</strong> download and install the apk from "Releases".<br>
+(or click the link https://github.com/bxsti-dev/emojikitchenclient/releases/download/android/emojikitchen_client.apk)
+
 <h2>Features:</h2>
 <ul>
 <li>Combine selected Emojis</li>
