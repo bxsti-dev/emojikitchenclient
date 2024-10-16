@@ -5,8 +5,8 @@ Emojikitchen client using emojik vercel API (https://emojik.vercel.app)
 Created with Flutter.
 
 <h2>Installation:</h2>
-<strong>Android:</strong> download and install the apk from "Releases".<br>
-(or click the link https://github.com/bxsti-dev/emojikitchenclient/releases/download/android/emojikitchen_client.apk)
+<strong>Android:</strong> <a href="https://github.com/bxsti-dev/emojikitchenclient/releases/download/android/emojikitchen_client.apk">download</a> and install the apk from "Releases".<br>
+
 
 <h2>Features:</h2>
 <ul>
@@ -17,7 +17,6 @@ Created with Flutter.
 <li>Random Emojicombination</li>
 <li>Dark Mode</li>
 <li>Light Mode</li>
-
 </ul>
 
 <h2>Screenshots:</h2>
