@@ -13,7 +13,7 @@ Created with Flutter.
 <li>Combine selected Emojis</li>
 <li>Share Emojis</li>  
 <li>Download Emojis as Image</li>
-<l1>Save Emojis as favorites</li>
+<li>Save Emojis as favorites</li>
 <li>Random Emojicombination</li>
 <li>Dark Mode</li>
 <li>Light Mode</li>
